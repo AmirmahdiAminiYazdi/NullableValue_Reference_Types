@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NullableValue_Reference_Types\\NullableValue_Reference_Types\\NullableValue_Reference_Types.csproj": {}
+  },
+  "projects": {
+    "D:\\NullableValue_Reference_Types\\NullableValue_Reference_Types\\NullableValue_Reference_Types.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NullableValue_Reference_Types\\NullableValue_Reference_Types\\NullableValue_Reference_Types.csproj",
+        "projectName": "NullableValue_Reference_Types",
+        "projectPath": "D:\\NullableValue_Reference_Types\\NullableValue_Reference_Types\\NullableValue_Reference_Types.csproj",
+        "packagesPath": "C:\\Users\\mashadservice\\.nuget\\packages\\",
+        "outputPath": "D:\\NullableValue_Reference_Types\\NullableValue_Reference_Types\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mashadservice\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
